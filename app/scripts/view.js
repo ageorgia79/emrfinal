@@ -1,4 +1,4 @@
-'use strict';
+d'use strict';
 
 Parse.initialize("O7qNRhkqsSWMW0GW9lcVtezulyIKaIXSVRtgHckx", "epJ3KBQuLaePHDzDW8bmD4BsutMJ1fMHf1uSrq0F");
 
